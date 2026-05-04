@@ -1,0 +1,87 @@
+"In","Out","N"
+"-1hh","Adj N",152
+"-1hh","N Adj",82
+"-1hl0","Adj N",132
+"-1hl0","N Adj",333
+"-1hl1","Adj N",10
+"-1hl1","N Adj",19
+"-1l1h","Adj N",129
+"-1l1h","N Adj",2
+"-1l1l0","Adj N",255
+"-1l1l0","N Adj",19
+"-1l1l1","Adj N",13
+"-1l1l1","N Adj",5
+"-2hh","Adj N",216
+"-2hh","N Adj",3
+"-2hl0","Adj N",427
+"-2hl0","N Adj",114
+"-2hl1","Adj N",15
+"-2hl1","N Adj",4
+"-2l1h","Adj N",108
+"-2l1h","N Adj",1
+"-2l1l0","Adj N",298
+"-2l1l0","N Adj",1
+"-2l1l1","Adj N",18
+"-2l1l1","N Adj",0
+"0hh","Adj N",333
+"0hh","N Adj",85
+"0hh3","Adj N",154
+"0hh3","N Adj",0
+"0hl03","Adj N",156
+"0hl03","N Adj",29
+"0hl1","Adj N",32
+"0hl1","N Adj",538
+"0hl13","Adj N",31
+"0hl13","N Adj",17
+"0l0h3","Adj N",552
+"0l0h3","N Adj",2
+"0l0l03","Adj N",755
+"0l0l03","N Adj",14
+"0l0l13","Adj N",80
+"0l0l13","N Adj",2
+"0l1h","Adj N",302
+"0l1h","N Adj",6
+"0l1h3","Adj N",72
+"0l1h3","N Adj",0
+"0l1l03","Adj N",85
+"0l1l03","N Adj",0
+"0l1l1","Adj N",140
+"0l1l1","N Adj",42
+"1hh","Adj N",135
+"1hh","N Adj",23
+"1hl1","Adj N",18
+"1hl1","N Adj",170
+"1l0h","Adj N",853
+"1l0h","N Adj",69
+"1l0l1","Adj N",59
+"1l0l1","N Adj",318
+"1l1h","Adj N",130
+"1l1h","N Adj",1
+"1l1l1","Adj N",16
+"1l1l1","N Adj",55
+"2hh","Adj N",83
+"2hh","N Adj",341
+"2hl1","Adj N",2
+"2hl1","N Adj",572
+"2l0h","Adj N",325
+"2l0h","N Adj",147
+"2l0l1","Adj N",9
+"2l0l1","N Adj",354
+"2l1h","Adj N",15
+"2l1h","N Adj",1
+"2l1l1","Adj N",1
+"2l1l1","N Adj",3
+"Bin-1hh","hx i xhx",273
+"Bin-1hh","xhx i hx",0
+"Bin-1hl0","hx i xl0x",284
+"Bin-1hl0","xl0x i hx",8
+"Bin-1hl1","hx i xl1x",31
+"Bin-1hl1","xl1x i hx",1
+"Bin-1l1h","l1x i xhx",214
+"Bin-1l1h","xhx i l1x",0
+"Bin-1l1l0","l1x i xl0x",440
+"Bin-1l1l0","xl0x i l1x",0
+"Bin-1l1l1","l1x i xl1x",66
+"Bin-1l1l1","xl1x i l1x",0
+"Bin0l1h","i hx i l1x",0
+"Bin0l1h","i l1x i hx",94

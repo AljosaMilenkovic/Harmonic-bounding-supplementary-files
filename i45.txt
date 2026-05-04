@@ -1,0 +1,181 @@
+Order	 2.09766718579236 
+No_Inversion_Trisyllables	 2.22503447980682 
+Align_Right	 5.2795004025771 
+End_Weight	 4.69660223168918 
+Strong_Heavy_cadence	 2.82054450371325 
+Stress_Strong_Heavy_cadence	 4.6016126581727 
+ 1 	-1hh	 0 	Adj N	 15 	 809701 
+ 1 	-1hh	 1 	N Adj	 13 	 190299 
+ 2 	-1hl0	 0 	Adj N	 18 	 257099 
+ 2 	-1hl0	 1 	N Adj	 28 	 742901 
+ 3 	-1hl1	 0 	Adj N	 1 	 3897 
+ 3 	-1hl1	 1 	N Adj	 3 	 996103 
+ 4 	-1l1h	 0 	Adj N	 15 	 1000000 
+ 4 	-1l1h	 1 	N Adj	 0 	 0 
+ 5 	-1l1l0	 0 	Adj N	 30 	 999178 
+ 5 	-1l1l0	 1 	N Adj	 2 	 822 
+ 6 	-1l1l1	 0 	Adj N	 1 	 811827 
+ 6 	-1l1l1	 1 	N Adj	 2 	 188173 
+ 7 	-2hh	 0 	Adj N	 24 	 1000000 
+ 7 	-2hh	 1 	N Adj	 0 	 0 
+ 8 	-2hl0	 0 	Adj N	 36 	 990357 
+ 8 	-2hl0	 1 	N Adj	 11 	 9643 
+ 9 	-2hl1	 0 	Adj N	 1 	 375587 
+ 9 	-2hl1	 1 	N Adj	 1 	 624413 
+ 10 	-2l1h	 0 	Adj N	 8 	 1000000 
+ 10 	-2l1h	 1 	N Adj	 0 	 0 
+ 11 	-2l1l0	 0 	Adj N	 25 	 1000000 
+ 11 	-2l1l0	 1 	N Adj	 0 	 0 
+ 12 	-2l1l1	 0 	Adj N	 3 	 1000000 
+ 12 	-2l1l1	 1 	N Adj	 0 	 0 
+ 13 	0hh	 0 	Adj N	 29 	 990914 
+ 13 	0hh	 1 	N Adj	 7 	 9086 
+ 14 	0hh3	 0 	Adj N	 7 	 999942 
+ 14 	0hh3	 1 	N Adj	 0 	 58 
+ 15 	0hl03	 0 	Adj N	 16 	 813589 
+ 15 	0hl03	 1 	N Adj	 4 	 186411 
+ 16 	0hl1	 0 	Adj N	 5 	 1112 
+ 16 	0hl1	 1 	N Adj	 47 	 998888 
+ 17 	0hl13	 0 	Adj N	 0 	 60118 
+ 17 	0hl13	 1 	N Adj	 1 	 939882 
+ 18 	0l0h3	 0 	Adj N	 48 	 1000000 
+ 18 	0l0h3	 1 	N Adj	 0 	 0 
+ 19 	0l0l03	 0 	Adj N	 68 	 999862 
+ 19 	0l0l03	 1 	N Adj	 3 	 138 
+ 20 	0l0l13	 0 	Adj N	 5 	 435066 
+ 20 	0l0l13	 1 	N Adj	 0 	 564934 
+ 21 	0l1h	 0 	Adj N	 23 	 1000000 
+ 21 	0l1h	 1 	N Adj	 1 	 0 
+ 22 	0l1h3	 0 	Adj N	 5 	 1000000 
+ 22 	0l1h3	 1 	N Adj	 0 	 0 
+ 23 	0l1l03	 0 	Adj N	 6 	 1000000 
+ 23 	0l1l03	 1 	N Adj	 0 	 0 
+ 24 	0l1l1	 0 	Adj N	 10 	 991336 
+ 24 	0l1l1	 1 	N Adj	 1 	 8664 
+ 25 	1hh	 0 	Adj N	 9 	 940266 
+ 25 	1hh	 1 	N Adj	 1 	 59734 
+ 26 	1hl1	 0 	Adj N	 0 	 17681 
+ 26 	1hl1	 1 	N Adj	 20 	 982319 
+ 27 	1l0h	 0 	Adj N	 78 	 997577 
+ 27 	1l0h	 1 	N Adj	 9 	 2423 
+ 28 	1l0l1	 0 	Adj N	 7 	 170439 
+ 28 	1l0l1	 1 	N Adj	 26 	 829561 
+ 29 	1l1h	 0 	Adj N	 10 	 1000000 
+ 29 	1l1h	 1 	N Adj	 0 	 0 
+ 30 	1l1l1	 0 	Adj N	 2 	 940768 
+ 30 	1l1l1	 1 	N Adj	 2 	 59232 
+ 31 	2hh	 0 	Adj N	 6 	 32504 
+ 31 	2hh	 1 	N Adj	 28 	 967496 
+ 32 	2hl1	 0 	Adj N	 0 	 0 
+ 32 	2hl1	 1 	N Adj	 51 	 1000000 
+ 33 	2l0h	 0 	Adj N	 35 	 548884 
+ 33 	2l0h	 1 	N Adj	 18 	 451116 
+ 34 	2l0l1	 0 	Adj N	 0 	 38 
+ 34 	2l0l1	 1 	N Adj	 28 	 999962 
+ 35 	2l1h	 0 	Adj N	 0 	 992622 
+ 35 	2l1h	 1 	N Adj	 0 	 7378 
+ 36 	2l1l1	 0 	Adj N	 0 	 33197 
+ 36 	2l1l1	 1 	N Adj	 1 	 966803 
+ 37 	Bin-1hh	 0 	hx i xhx	 24 	 1000000 
+ 37 	Bin-1hh	 1 	xhx i hx	 0 	 0 
+ 38 	Bin-1hl0	 0 	hx i xl0x	 36 	 1000000 
+ 38 	Bin-1hl0	 1 	xl0x i hx	 1 	 0 
+ 39 	Bin-1hl1	 0 	hx i xl1x	 2 	 900444 
+ 39 	Bin-1hl1	 1 	xl1x i hx	 0 	 99556 
+ 40 	Bin-1l1h	 0 	l1x i xhx	 19 	 1000000 
+ 40 	Bin-1l1h	 1 	xhx i l1x	 0 	 0 
+ 41 	Bin-1l1l0	 0 	l1x i xl0x	 49 	 1000000 
+ 41 	Bin-1l1l0	 1 	xl0x i l1x	 0 	 0 
+ 42 	Bin-1l1l1	 0 	l1x i xl1x	 3 	 1000000 
+ 42 	Bin-1l1l1	 1 	xl1x i l1x	 0 	 0 
+ 43 	Bin0l1h	 0 	i l1x i hx	 8 	 1000000 
+ 43 	Bin0l1h	 1 	i hx i l1x	 0 	 0 
+
+			Order	No_Inversion_Trisyllables	Align_Right	End_Weight	Strong_Heavy_cadence	Stress_Strong_Heavy_cadence
+			Order	No_Inversion_Trisyllables	Align_Right	End_Weight	Strong_Heavy_cadence	Stress_Strong_Heavy_cadence
+-1hh	Adj N				 1 			
+	N Adj	 82 	 1 			 1 		
+-1hl0	Adj N				 1 		 1 	
+	N Adj	 333 	 1 			 1 		
+-1hl1	Adj N				 1 		 1 	 1 
+	N Adj	 19 	 1 			 1 		
+-1l1h	Adj N				 1 			
+	N Adj	 2 	 1 			 1 	 1 	 1 
+-1l1l0	Adj N				 1 		 1 	
+	N Adj	 19 	 1 			 1 	 1 	 1 
+-1l1l1	Adj N				 1 		 1 	 1 
+	N Adj	 5 	 1 			 1 	 1 	 1 
+-2hh	Adj N							
+	N Adj	 3 	 1 			 1 		
+-2hl0	Adj N						 1 	
+	N Adj	 114 	 1 			 1 		
+-2hl1	Adj N						 1 	 1 
+	N Adj	 4 	 1 			 1 		
+-2l1h	Adj N							
+	N Adj	 1 	 1 			 1 	 1 	 1 
+-2l1l0	Adj N						 1 	
+	N Adj	 1 	 1 			 1 	 1 	 1 
+-2l1l1	Adj N						 1 	 1 
+	N Adj		 1 			 1 	 1 	 1 
+0hh	Adj N							
+	N Adj	 85 	 1 					
+0hh3	Adj N				 1 			
+	N Adj		 1 	 1 	 1 			
+0hl03	Adj N				 1 		 1 	
+	N Adj	 29 	 1 	 1 	 1 			
+0hl1	Adj N						 1 	 1 
+	N Adj	 538 	 1 					
+0hl13	Adj N				 1 		 1 	 1 
+	N Adj	 17 	 1 	 1 	 1 			
+0l0h3	Adj N				 1 			
+	N Adj	 2 	 1 	 1 	 1 		 1 	
+0l0l03	Adj N				 1 		 1 	
+	N Adj	 14 	 1 	 1 	 1 		 1 	
+0l0l13	Adj N				 1 		 1 	 1 
+	N Adj	 2 	 1 	 1 	 1 		 1 	
+0l1h	Adj N							
+	N Adj	 6 	 1 				 1 	 1 
+0l1h3	Adj N				 1 			
+	N Adj		 1 	 1 	 1 		 1 	 1 
+0l1l03	Adj N				 1 		 1 	
+	N Adj		 1 	 1 	 1 		 1 	 1 
+0l1l1	Adj N						 1 	 1 
+	N Adj	 42 	 1 				 1 	 1 
+1hh	Adj N					 1 		
+	N Adj	 23 	 1 		 1 			
+1hl1	Adj N					 1 	 1 	 1 
+	N Adj	 170 	 1 		 1 			
+1l0h	Adj N					 1 		
+	N Adj	 69 	 1 		 1 		 1 	
+1l0l1	Adj N					 1 	 1 	 1 
+	N Adj	 318 	 1 		 1 		 1 	
+1l1h	Adj N					 1 		
+	N Adj	 1 	 1 		 1 		 1 	 1 
+1l1l1	Adj N					 1 	 1 	 1 
+	N Adj	 55 	 1 		 1 		 1 	 1 
+2hh	Adj N					 1 		
+	N Adj	 341 	 1 					
+2hl1	Adj N					 1 	 1 	 1 
+	N Adj	 572 	 1 					
+2l0h	Adj N					 1 		
+	N Adj	 147 	 1 				 1 	
+2l0l1	Adj N					 1 	 1 	 1 
+	N Adj	 354 	 1 				 1 	
+2l1h	Adj N					 1 		
+	N Adj	 1 	 1 				 1 	 1 
+2l1l1	Adj N					 1 	 1 	 1 
+	N Adj	 3 	 1 				 1 	 1 
+Bin-1hh	hx i xhx							
+	xhx i hx				 1 	 1 		
+Bin-1hl0	hx i xl0x						 1 	
+	xl0x i hx	 8 			 1 	 1 		
+Bin-1hl1	hx i xl1x						 1 	 1 
+	xl1x i hx	 1 			 1 	 1 		
+Bin-1l1h	l1x i xhx							
+	xhx i l1x				 1 	 1 	 1 	 1 
+Bin-1l1l0	l1x i xl0x						 1 	
+	xl0x i l1x				 1 	 1 	 1 	 1 
+Bin-1l1l1	l1x i xl1x						 1 	 1 
+	xl1x i l1x				 1 	 1 	 1 	 1 
+Bin0l1h	i l1x i hx				 1 			
+	i hx i l1x				 1 		 1 	 1 
